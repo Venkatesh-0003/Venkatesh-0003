@@ -1,20 +1,16 @@
-##    Hi, I'm Venkatesh 👋
-   - 🔭 Working on IoT with ESP32
-   - 🌱 Learning Embedded C++
-   - 🎯 Goal: IoT Internship 
-   - 📫 Pune
+# 🚦 Day 1 - Traffic Signal with Arduino
 
-<!--
-**Venkatesh-0003/Venkatesh-0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Simulation:** Wokwi - Arduino UNO
+**Goal:** Real traffic light logic
 
-Here are some ideas to get you started:
+### Logic:
+RED (3 sec) -> YELLOW (1 sec) -> GREEN (3 sec) -> loop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Wiring:
+- RED -> 13
+- YELLOW -> 12
+- GREEN -> 11
+- GND -> GND
+
+### Code:
+`code.ino` 
