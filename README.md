@@ -1,7 +1,7 @@
 ##    Hi, I'm Venkatesh 👋
    - 🔭 Working on IoT with ESP32
    - 🌱 Learning Embedded C++
-   - 🎯 Goal: IoT Internship by Oct 31, 2026
+   - 🎯 Goal: IoT Internship 
    - 📫 Pune
 
 <!--
