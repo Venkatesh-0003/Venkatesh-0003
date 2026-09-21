@@ -1,16 +1,20 @@
-# 🚦 Day 1 - Traffic Signal with Arduino
+ Hi, I'm Venkatesh 👋
 
-**Simulation:** Wokwi - Arduino UNO
-**Goal:** Real traffic light logic
+- 🔭 Working on IoT with ESP32
+- 🌱 Learning Embedded C++ 
+- 🎯 Goal: IoT Internship
+- 📍 Pune
 
-### Logic:
-RED (3 sec) -> YELLOW (1 sec) -> GREEN (3 sec) -> loop
+ ✅ Day 1 - Traffic Signal with Arduino
+Simulation:Wokwi - Arduino UNO
+Logic: RED (3 sec) -> YELLOW (1 sec) -> GREEN (3 sec) -> loop
 
-### Wiring:
-- RED -> 13
-- YELLOW -> 12
-- GREEN -> 11
+Wiring:
+- RED -> Pin 13
+- YELLOW -> Pin 12
+- GREEN -> Pin 11
 - GND -> GND
 
-### Code:
-`code.ino` 
+Code: Check in `Traffic-Signal/code.ino` folder
+---
+📫 How to reach me: [Add your LinkedIn here]
