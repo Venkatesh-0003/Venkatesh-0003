@@ -1,4 +1,8 @@
-## Hi there 👋
+##    Hi, I'm Venkatesh 👋
+   - 🔭 Working on IoT with ESP32
+   - 🌱 Learning Embedded C++
+   - 🎯 Goal: IoT Internship by Oct 31, 2026
+   - 📫 Pune
 
 <!--
 **Venkatesh-0003/Venkatesh-0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
