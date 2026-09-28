@@ -25,6 +25,12 @@ Code: Check in `Traffic-Signal/code.ino` folder
 - Smart Pedestrian Alert System
 - Code: `Smart-Traffic-Buzzer/code.ino`
   ---
+   Day 4 - Button Control Traffic System
+- Button Controlled Full Traffic Cycle 
+- Pin: 2=Button, 13=RED, 12=YELLOW, 11=GREEN, 8=Buzzer
+- Code: Button-Traffic/code.ino](Button-Traffic/code.ino
+  ---
+- Wokwi Demo + Buzzer Alert
   Tools Used
 - Arduino Uno
 - Wokwi Simulator
