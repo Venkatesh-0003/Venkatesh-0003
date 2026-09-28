@@ -5,7 +5,7 @@
 - 🎯 Goal: IoT Internship
 - 📍 Pune
 
- ✅ Day 1 - Traffic Signal with Arduino
+  Day 1 - Traffic Signal with Arduino
 Simulation:Wokwi - Arduino UNO
 Logic: RED (3 sec) -> YELLOW (1 sec) -> GREEN (3 sec) -> loop
 
@@ -17,7 +17,16 @@ Wiring:
 
 Code: Check in `Traffic-Signal/code.ino` folder
  ---
-✅ Day 2 - Buzzer Alert System - Pin 8 & GND - tone(1000Hz) beep logic - Wokwi Simulation Done
-   Code: Buzzer-Alert/code.ino
+ Day 2 - Buzzer Alert System - Pin 8 & GND - tone(1000Hz) beep logic - Wokwi Simulation Done
+   Code: `Buzzer-Alert/code.ino`
  ---
+ Day 3 - Smart Traffic + Buzzer Alert
+- RED (3s) + Buzzer Beep -> YELLOW (1s) -> GREEN (3s)
+- Smart Pedestrian Alert System
+- Code: `Smart-Traffic-Buzzer/code.ino`
+  ---
+  Tools Used
+- Arduino Uno
+- Wokwi Simulator
+- VS Code
 📫 How to reach me: [Add your LinkedIn here]
