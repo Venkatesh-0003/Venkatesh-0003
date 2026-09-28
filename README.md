@@ -16,5 +16,8 @@ Wiring:
 - GND -> GND
 
 Code: Check in `Traffic-Signal/code.ino` folder
----
+ ---
+✅ Day 2 - Buzzer Alert System - Pin 8 & GND - tone(1000Hz) beep logic - Wokwi Simulation Done
+   Code: Buzzer-Alert/code.ino
+ ---
 📫 How to reach me: [Add your LinkedIn here]
