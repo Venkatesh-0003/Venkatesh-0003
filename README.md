@@ -56,6 +56,8 @@ python intruder_single_save.py
 ## Output
 File saved like: `intruders/intruder_2026-10-01_21-30-00.jpg`
 Press 'q' to quit.
+
+Intruder-Detection/README.md
 ---
 - Wokwi Demo + Buzzer Alert
   Tools Used
