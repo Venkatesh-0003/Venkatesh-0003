@@ -50,8 +50,10 @@ Earlier code saved many photos. Now fixed with 5 sec cooldown.
 - Time & Datetime module
 
 ## How to Run
-"pip install opencv-python
- python intruder_single_save.py"
+``` 
+pip install opencv-python
+python intruder_single_save.py
+```
 
 ## Output
 File saved like: `intruders/intruder_2026-10-01_21-30-00.jpg`
